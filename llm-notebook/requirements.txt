@@ -1,20 +1,20 @@
-torch
-fairscale
-fire
-sentencepiece
-langchain
-llama-hub
-pypdf
-sentence-transformers 
-qdrant-client 
-pymilvus
-chromadb
-elasticsearch
-weaviate-client
-docx2txt
-transformers-stream-generator 
-text2vec
-nltk
-gpt4all
+torch  2.0.1
+fairscale 0.4.13
+fire 0.5.0
+sentencepiece 0.1.99
+langchain  0.0.266
+llama-hub 0.0.23
+pypdf 3.15.1
+sentence-transformers  2.2.2
+qdrant-client  1.4.0
+pymilvus 2.2.15
+chromadb 0.4.6
+elasticsearch 8.9.0
+weaviate-client 3.22.1
+docx2txt 0.8
+transformers-stream-generator  0.0.4
+text2vec 1.2.2
+nltk 3.8.1
+gpt4all 0.1.7
 auto-gpt-plugin-template
-transformers
+transformers 2.2.2
